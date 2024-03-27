@@ -8,6 +8,6 @@
 - Open the Abelton Link Software (for example Rekordbox) and enable link
 - Clone the rep on a directory
 - Open the terminal and run `npm i` and `node index.js`
-- Go on qlc+ add a clock on the virtual console, on input set the Tap button to chanel 1 and the universe to midi
+- Go on qlc+ add a speed dial on the virtual console, on input set the Tap button to chanel 1 and the universe to midi
 - Start the show and you will see the tap button pressed and a few seconde later the time will be set
-- You'll have few ms delay, but don't worry you won't see anythink
+- You'll have few ms delay, but don't worry you won't see anythink in real life
