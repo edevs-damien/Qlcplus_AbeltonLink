@@ -2,7 +2,7 @@
 
 ## How to ?
 - Install [node js](https://nodejs.org/en)
-- On mac, open Audio Midi Setup.app Go on Window --> Midi studio --> double clik on IAC Driver --> check device is online
+- On mac : open Audio Midi Setup.app Go on Window --> Midi studio --> double clik on IAC Driver --> check device is online
 - Open qlc + and add the midi input into a new universe (On mac : IAC driver)
 - Set chanels input and output to 1 
 - Open the Abelton Link Software (for example Rekordbox) and enable link
