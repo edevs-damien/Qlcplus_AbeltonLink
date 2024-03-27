@@ -1,4 +1,4 @@
-# Abelton Link Bridge for Qlc+
+# Abelton Link and Rekordbox Bridge for Qlc+
 
 ## How to ?
 - Install node js
